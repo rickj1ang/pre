@@ -25,3 +25,4 @@
 #### 6: Conclusion
 - **Summary**: AI offers emotional benefits but poses risks like isolation.
 - **Takeaway**: "With hybrid approaches and ethical guidelines, AI can support—not replace—human connection."
+  World is already changed by social media, Nxet AI?
