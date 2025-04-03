@@ -1,4 +1,3 @@
----
 ### Presentation: Emotional Arousal in Human-AI Interactions
 #### Introduction
 - **Hook**: "AI is no longer just a tool—it’s becoming a companion and therapist. But what does this mean for our emotions?"
@@ -26,4 +25,3 @@
 #### 6: Conclusion
 - **Summary**: AI offers emotional benefits but poses risks like isolation.
 - **Takeaway**: "With hybrid approaches and ethical guidelines, AI can support—not replace—human connection."
----
