@@ -1,4 +1,4 @@
-### Presentation: Emotional Arousal in Human-AI Interactions
+### Risk of AI: Emotional Arousal in Human-AI Interactions
 #### 1: Introduction
 - **Hook**: "AI is no longer just a tool—it’s becoming a companion and therapist. But what does this mean for our emotions?"
 - **Context**: AI is increasingly used in emotional settings like therapy and companionship.
